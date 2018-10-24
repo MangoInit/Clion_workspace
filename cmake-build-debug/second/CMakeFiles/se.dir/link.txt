@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/se.dir/main.cpp.o CMakeFiles/se.dir/fun.cpp.o  -o se 

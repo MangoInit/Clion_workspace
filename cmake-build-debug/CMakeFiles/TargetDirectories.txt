@@ -1,0 +1,11 @@
+/home/mango/ClionWorkspace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mango/ClionWorkspace/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mango/ClionWorkspace/cmake-build-debug/first/CMakeFiles/edit_cache.dir
+/home/mango/ClionWorkspace/cmake-build-debug/first/CMakeFiles/rebuild_cache.dir
+/home/mango/ClionWorkspace/cmake-build-debug/first/CMakeFiles/first.dir
+/home/mango/ClionWorkspace/cmake-build-debug/second/CMakeFiles/edit_cache.dir
+/home/mango/ClionWorkspace/cmake-build-debug/second/CMakeFiles/rebuild_cache.dir
+/home/mango/ClionWorkspace/cmake-build-debug/second/CMakeFiles/second.dir
+/home/mango/ClionWorkspace/cmake-build-debug/third/CMakeFiles/edit_cache.dir
+/home/mango/ClionWorkspace/cmake-build-debug/third/CMakeFiles/rebuild_cache.dir
+/home/mango/ClionWorkspace/cmake-build-debug/third/CMakeFiles/third.dir

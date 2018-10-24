@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mango/ClionWorkspace/first/main.cpp
+iostream
+-
+
+/home/mango/ClionWorkspace/first/tabtenn0.cpp
+tabtenn0.h
+/home/mango/ClionWorkspace/first/tabtenn0.h
+iostream
+-
+
+/home/mango/ClionWorkspace/first/tabtenn0.h
+string
+-
+

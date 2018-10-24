@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread -g   CMakeFiles/ClionWorkspace.dir/first/main.cpp.o CMakeFiles/ClionWorkspace.dir/first/tabtenn0.cpp.o CMakeFiles/ClionWorkspace.dir/second/main.cpp.o CMakeFiles/ClionWorkspace.dir/second/fun.cpp.o CMakeFiles/ClionWorkspace.dir/third/main.cpp.o  -o ClionWorkspace 
