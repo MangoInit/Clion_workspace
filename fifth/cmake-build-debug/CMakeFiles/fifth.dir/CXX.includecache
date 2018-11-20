@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mango/ClionWorkspace/fifth/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+test.h
+/home/mango/ClionWorkspace/fifth/test.h
+
+/home/mango/ClionWorkspace/fifth/test.h
+
